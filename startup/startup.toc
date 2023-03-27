@@ -1,7 +1,0 @@
-\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
-\contentsline {chapter}{\numberline {2}How can you Protect Your Idea}{19}{chapter.2}
-\contentsline {chapter}{\numberline {3}What is a Company}{33}{chapter.3}
-\contentsline {chapter}{\numberline {4}How do you Market Your Product}{44}{chapter.4}
-\contentsline {chapter}{\numberline {5}How do You Finance Your Business}{51}{chapter.5}
-\contentsline {chapter}{\numberline {6}How to create a Financial model}{61}{chapter.6}
-\contentsline {chapter}{\numberline {7}How do you write your Business Plan}{65}{chapter.7}
